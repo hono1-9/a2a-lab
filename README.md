@@ -1,6 +1,6 @@
 # A2A Lab — CS4680
 
-A Python implementation of the [Agent-to-Agent (A2A) protocol](https://github.com/google/A2A), built as part of CS4680 Assignment 1.
+
 
 ## Project Structure
 
